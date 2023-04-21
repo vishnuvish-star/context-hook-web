@@ -1,0 +1,15 @@
+nav {
+  background-color: #abcfab;
+  width: 100%;
+  display: flex;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
