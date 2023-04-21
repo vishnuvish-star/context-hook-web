@@ -1,0 +1,13 @@
+.card {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 35%;
+}
+.product-box {
+  background-color: #fabcfa;
+}
+.purchase {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
